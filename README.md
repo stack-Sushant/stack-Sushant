@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Sushant Srivastava
 
-**Aspiring Software Developer | Full-Stack Enthusiast | GenAI Explorer**
+**Aspiring Software Developer | Full-Stack Enthusiast | DSA |AIML**
 
 🌟 I’m passionate about building impactful applications, solving challenging problems with DSA, and exploring the world of Generative AI & modern software development.
 
